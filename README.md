@@ -43,11 +43,11 @@
 - [x] Nested loops
 
 ### 1.4 Arrays
-- [ ] Single-dimensional arrays — declaration, initialization, access
-- [ ] Multi-dimensional arrays (2D arrays)
-- [ ] Iterating arrays with loops and for-each
-- [ ] `Arrays` utility class — `sort()`, `fill()`, `copyOf()`, `binarySearch()`
-- [ ] Array of Strings
+- [x] Single-dimensional arrays — declaration, initialization, access
+- [x] Multi-dimensional arrays (2D arrays)
+- [x] Iterating arrays with loops and for-each
+- [x] `Arrays` utility class — `sort()`, `fill()`, `copyOf()`, `binarySearch()`
+- [x] Array of Strings
 
 ### 1.5 Methods (Functions)
 - [ ] Defining and calling methods
