@@ -1,0 +1,38 @@
+*{
+    margin: 5px;
+
+}
+
+.firstdiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+.seconddiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.thirddiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 12px;
+}
+
+.main1half{
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+}
+.mainsesc{
+    display: flex;
+}
+
+.fullsti{
+    display: flex;
+    
+}
